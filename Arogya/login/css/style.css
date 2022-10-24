@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppings:wght@100;200;300;400;600&display=swap');
+
+:root{
+    --main-color: #028bb4;
+    --color-dark: #1D2231;
+    --text-grey: #8390A2;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+    outline: none; border: none;
+   
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background: linear-gradient(120deg, rgb(6, 68, 238), rgb(207, 194, 243));
+    height: 100vh;
+    overflow: hidden; 
+}
+
+.container{
+    
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    background: rgb(0, 252, 252);
+    border-radius: 15px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    padding-bottom: 60px;
+}
+
+.container .content {
+    text-align: center;
+}
+
+.container .content h3 {
+    font-size: 30px;
+    color:#333;
+}
+
+.container .content h3 span{
+    background: crimson;
+    color:#fff;
+    border-radius: 5px;
+    padding: 0 15px;
+}
+
+.container .content h1 {
+    font-size: 50px;
+    color:#333;
+    text-align: center;
+    padding: 20px 0px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+.container .content h1 span{
+    background: crimson;
+}
+
+.container .content p{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+
+.container .content p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.container .content .btn{
+    display: inline-block;
+    padding: 10px 30px;
+    font-size: 10px;
+    background: #333;
+    color:#fff;
+    margin: 0 5px;
+    text-transform: capitalize;
+
+    background: var(--main-color);
+    border-radius: 10px;
+    color: #fff;
+    font-size: .8rem;
+    padding: .5rem 1rem;
+    border: 1px solid var(--color-dark);
+}
+
+.container .content .btn:hover{
+    background: crimson;
+}
+
+.form-container{
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    background: rgb(0, 252, 252);
+    border-radius: 15px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    padding-bottom: 60px;
+    
+}
+
+.form-container form{
+    padding:0 40px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.form-container form h3{
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    color: #333;
+    margin-top: 10px;
+    
+}
+
+.form-container form input,
+.form-container form select {
+    
+    width: 100%;
+    padding: 10px 15px;
+    font-size: 17px;
+    margin: 8px 0;
+    background:#eee;
+    border-radius: 5px;
+    transform: translateY(-50%);
+  
+}
+
+.form-container form select option{
+    background: #fff;
+
+}
+
+.form-container form .form-btn{
+    background: #fbd0d9;
+    color:crimson;
+    text-transform: capitalize;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.form-container form .form-btn:hover{
+    background: crimson;
+    color: #fff;
+    transition: .5s;
+
+
+}
+
+.form-container form p{
+    margin-top: 10px;
+    font-size: 18px;
+    color: #333;
+}
+
+.form-container form p a{
+    color: crimson;
+    text-transform: capitalize;
+    font-size: 18px;
+    cursor: pointer;
+    font-weight:bold;
+    transition: .5s;
+    
+
+}
+
+.form-container form .error-msg{
+    margin: 10px 0;
+    display: block;
+    background: crimson;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 12px;
+    padding: 10px;
+
+}
