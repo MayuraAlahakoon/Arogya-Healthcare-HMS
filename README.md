@@ -11,3 +11,7 @@ The new system is to control the following information
 •	room availability 
 •	staff and operating room schedules 
 •	patient invoices 
+•	payment details 
+•	system login information
+
+
