@@ -1,4 +1,4 @@
-# Arogya-Healthcare-HMS PHP | HTML | CSS | MySQL
+# Arogya-Healthcare-HMS PHP | HTML | CSS | MySQL | CRUD Application
 Web-based Hostpital Managment System
 
 Scenario.
