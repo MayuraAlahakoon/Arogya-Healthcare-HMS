@@ -21,6 +21,5 @@ Assume that you are the web developer hired by the Health Care Hospital, to prop
 <h3>Demo video</h3>
  <video width="320" height="240" controls>
   <source src="/demoVideo%5BArogyaHealthCareHMS%5D.mkv" type="video/mp4">
-
-.
-</video> 
+</video> <br>
+<video src='/demoVideo%5BArogyaHealthCareHMS%5D.mkv' width=180/>
