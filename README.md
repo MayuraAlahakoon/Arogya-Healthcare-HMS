@@ -18,3 +18,9 @@ Assume that you are the web developer hired by the Health Care Hospital, to prop
 
 
 <img src="/Screenshot%20from%202022-10-06%2020-35-26.png" alt="Arogya HMS">
+<h3>Demo video</h3>
+ <video width="320" height="240" controls>
+  <source src="" type="video/mp4">
+
+.
+</video> 
