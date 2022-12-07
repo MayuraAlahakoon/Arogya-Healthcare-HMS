@@ -17,4 +17,4 @@ Assume that you are the web developer hired by the Health Care Hospital, to prop
 </ul>
 
 
-<img scr="/Screenshot%20from%202022-10-06%2020-35-26.png" alt="Arogya HMS">
+<img src="/Screenshot%20from%202022-10-06%2020-35-26.png" alt="Arogya HMS">
