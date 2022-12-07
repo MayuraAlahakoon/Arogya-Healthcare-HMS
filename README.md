@@ -14,4 +14,4 @@ The new system is to control the following information
 •	payment details 
 •	system login information
 
-<img scr="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.oevbolwSrvjJQcDSNFdOYAHaEo%26pid%3DApi&f=1&ipt=a8f323077b43380993f625f70d81bdd654fcf9137476e81bed36c262ae81d193&ipo=images" alt="test">
+<img scr="" alt="test">
