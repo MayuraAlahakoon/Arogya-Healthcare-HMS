@@ -20,8 +20,6 @@ Assume that you are the web developer hired by the Health Care Hospital, to prop
 <img src="/Screenshot%20from%202022-10-06%2020-35-26.png" alt="Arogya HMS">
 <hr>
 <h3>Demo video</h3>
- <video width="320" height="240" controls>
-  <source src="/demoVideo%5BArogyaHealthCareHMS%5D.mkv" type="video/mp4">
-</video> <br>
-<video src='/demoVideo%5BArogyaHealthCareHMS%5D.mkv' width=180/>
+ [![Alt text for your video](https://img.youtube.com/vi/G3kvVZ7Glsg/0.jpg)](http://www.youtube.com/watch?v=G3kvVZ7Glsg)
+
 <hr>
